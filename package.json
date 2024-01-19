@@ -975,7 +975,7 @@
     "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "moment-timezone": "^0.5.43",
-    "monaco-editor": "^0.24.0",
+    "monaco-editor": "^0.45.0",
     "monaco-yaml": "3.2.1",
     "mustache": "^2.3.2",
     "node-fetch": "^2.6.7",
